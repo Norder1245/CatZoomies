@@ -2,5 +2,10 @@
     "Name": "CatZoomies",
     "Version": "1.0",
     "Description": "A simple app that gives cats zoomies.",
-    "Author": "CatZoomies"
+    "Author": "CatZoomies",
+    "zoomies": {
+        "speed":  10,
+        "acceleration": 50
+
+    }
 }
