@@ -10,3 +10,4 @@ int main() {
 }
 // Output: Your kitten now has zoomies
 //         Your kitten is now tired
+// cat has zoomies for 5 seconds and then is tired
