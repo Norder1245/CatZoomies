@@ -8,3 +8,5 @@ int main() {
     this_thread::sleep_for(chrono::seconds(5));
     cout << "Your kitten is now tired" << endl;
 }
+// Output: Your kitten now has zoomies
+//         Your kitten is now tired
